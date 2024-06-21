@@ -25,31 +25,31 @@ Introduction to asymptotic notation, complexity analysis, and its importance in 
 
 ## Recursion
 
-Understanding recursion, backtracking, and their applications. [Read More](Recursion/README.md)
+Understanding recursion, backtracking, and their applications. [Read More](Recursion)
 
 ## Sorting Algorithms
 
-Exploring various sorting algorithms, their implementations, and comparisons. [Read More](Sorting_Algorithms/README.md)
+Exploring various sorting algorithms, their implementations, and comparisons. [Read More](Sorting_Algorithms)
 
 ## Divide and Conquer
 
-Introduction to the divide and conquer paradigm with examples. [Read More](Divide_and_Conquer/README.md)
+Introduction to the divide and conquer paradigm with examples. [Read More](Divide_and_Conquer)
 
 ## Greedy Approach
 
-Understanding greedy algorithms and their applications. [Read More](Greedy_Approach/README.md)
+Understanding greedy algorithms and their applications. [Read More](Greedy_Approach)
 
 ## Dynamic Programming
 
-Exploring dynamic programming techniques, examples, and applications. [Read More](Dynamic_Programming/README.md)
+Exploring dynamic programming techniques, examples, and applications. [Read More](Dynamic_Programming)
 
 ## Branch and Bound
 
-Introduction to branch and bound technique and its applications. [Read More](Branch_and_Bound/README.md)
+Introduction to branch and bound technique and its applications. [Read More](Branch_and_Bound)
 
 ## Additional Topics
 
-Advanced topics including graph algorithms, string algorithms, number theory, and computational geometry. [Read More](Additional_Topics/README.md)
+Advanced topics including graph algorithms, string algorithms, number theory, and computational geometry. [Read More](Additional_Topics)
 
 ## Contributing
 
