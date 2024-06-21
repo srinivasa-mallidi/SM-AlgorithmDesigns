@@ -21,7 +21,7 @@ This repository is dedicated to exploring and implementing algorithms and data s
 
 ## Asymptotic Analysis
 
-Introduction to asymptotic notation, complexity analysis, and its importance in algorithm design. [Read More](Asymptotic_Analysis/README.md)
+Introduction to asymptotic notation, complexity analysis, and its importance in algorithm design. 
 
 ## Recursion
 
